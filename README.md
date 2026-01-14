@@ -60,12 +60,11 @@ I am eager to grow through **graduate programs or internships** where I can cont
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
----
-
-## 📊 GitHub Activity
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tibz-dev&show_icons=true&theme=transparent)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tibz-dev&theme=transparent)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tibz-dev&layout=compact&theme=transparent)
+## 📚 Currently Learning / Improving
+- Data structures & algorithms (interview fundamentals)
+- Secure coding + OWASP basics
+- API design, testing, and documentation
+- Cloud fundamentals (Azure/GCP) and deployment workflows
 
 ---
 
