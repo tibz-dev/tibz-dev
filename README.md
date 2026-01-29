@@ -75,8 +75,8 @@ I am eager to grow through **graduate programs or internships** where I can cont
 - Graduate Cybersecurity / Infrastructure Track  
 
 ---
-
+## 🕒Project Timeline
 <img width="2910" height="1400" alt="image" src="https://github.com/user-attachments/assets/de9089d9-9342-4d4c-b433-9f11bc39369f" />
-
+---
 
 [![](https://visitcount.itsvg.in/api?id=tibz-dev&icon=0&color=0)](https://visitcount.itsvg.in)
