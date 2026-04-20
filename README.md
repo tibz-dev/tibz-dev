@@ -5,12 +5,12 @@
 ---
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tibz-dev&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tibz-dev&theme=github_dark&v=1" alt="Profile Details" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tibz-dev&show_icons=true&hide_border=true&theme=github_dark&bg_color=0d1117&title_color=5595f0&text_color=ffffff&icon_color=5595f0" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tibz-dev&layout=compact&hide_border=true&theme=github_dark&bg_color=0d1117&title_color=5595f0&text_color=ffffff&langs_count=8" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tibz-dev&show_icons=true&hide_border=true&theme=github_dark&bg_color=0d1117&title_color=5595f0&text_color=ffffff&icon_color=5595f0&cache_seconds=21600&v=1" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tibz-dev&layout=compact&hide_border=true&theme=github_dark&bg_color=0d1117&title_color=5595f0&text_color=ffffff&langs_count=8&cache_seconds=21600&v=1" alt="Top Languages" />
 </div>
 
 ---
