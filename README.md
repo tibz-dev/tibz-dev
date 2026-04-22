@@ -27,17 +27,6 @@
 
 ## 🧑‍💻 Experience
 
-### 🏢 Restec — Software Developer Intern  
-📅 2026 – Present  
-
-- Building and testing **REST APIs using ASP.NET Core**
-- Applying **Clean Architecture & CQRS patterns**
-- Using **FluentValidation, AutoMapper, Swagger**
-- Performing **API testing (Swagger/Postman)**
-- Debugging and improving backend performance
-- Working in a team using **Git, Agile & code reviews**
-
----
 
 ## 💼 Featured Projects
 
